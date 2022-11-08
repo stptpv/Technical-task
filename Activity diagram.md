@@ -10,13 +10,13 @@
 ![Добавление аудиофайла](https://github.com/stptpv/Technical-task/blob/main/Add.png)
 
 ### 2. Начало воспроизведения<a name="2"></a>
-![Начало воспроизведения](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/State/Play.png)
+
+![Начало воспроизведения](https://github.com/stptpv/Technical-task/blob/main/Play.png)
   
 ### 3. Воспроизведение следующей аудиозаписи<a name="3"></a>
-![Воспроизведение следующей аудиозаписи](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/State/Next.png)
+![Воспроизведение следующей аудиозаписи](https://github.com/stptpv/Technical-task/blob/main/Next.png)
 
 ### 4. Изменение громкости<a name="4"></a>
-![Изменение громкости](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/State/Volume.png)
-
+![Изменение громкости](https://github.com/stptpv/Technical-task/blob/main/Volume.png)
 ### 5. Удаление аудиозаписи<a name="5"></a>
-![Удаление аудиозаписи](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/State/Remove.png)
+![Удаление аудиозаписи](https://github.com/stptpv/Technical-task/blob/main/Remove.png)
