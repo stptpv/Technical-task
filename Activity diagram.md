@@ -6,7 +6,8 @@
 5. [Удаление аудиозаписи](#5)
 
 ### 1. Добавление аудиофайла<a name="1"></a>
-![Добавление аудиофайла](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/State/Add.png)
+
+![Добавление аудиофайла](https://github.com/stptpv/Technical-task/blob/main/Add.png)
 
 ### 2. Начало воспроизведения<a name="2"></a>
 ![Начало воспроизведения](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/State/Play.png)
